@@ -1,0 +1,13 @@
+package homerep.homerepapigateway;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class HomeRepApiGatewayApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(HomeRepApiGatewayApplication.class, args);
+    }
+
+}
